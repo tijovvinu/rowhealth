@@ -52,7 +52,7 @@ The analysis was broken down into three sections:
 
 ## Dashboard
 Interactive Tableau dashboard visualizes key campaign trends by plan, state, and category:
-(https://public.tableau.com/views/RowHealth_17214427985250/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/RowHealth_17214427985250/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Tools & Technologies
 - **SQL** for querying and cleaning data
